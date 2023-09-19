@@ -60,7 +60,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
   - Toetsenbord navigatie is prima te doen
   - Narrator is geen touw aan vast te knopen
-  - 
+  - Contrast is veel zwart op wit, dus goed, maar er zijn geen andere opties
+  -
 
 </details>
 
